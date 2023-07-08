@@ -37,6 +37,13 @@ function Header() {
   );
 }
 
+const WinnersPizza = {
+  imgURL: LOGOURL,
+  name: "Winners Pizza - Fresh dough",
+  category: ['Pizza', 'Italian', 'Dessert'],
+  rating: "3.3 stars"
+}
+
 // RestaurantCard component
 const RestaurantCard = () => (
   <div className="restaurant-card">
@@ -45,9 +52,9 @@ const RestaurantCard = () => (
       alt="restaurantPic"
       className="restaurant-card-image"
     />
-    <h3 className="restaurant-card-title">Winners Pizza - Fresh dough</h3>
-    <h4 className="restaurant-card-category">Pizza, Italian, Dessert</h4>
-    <h3 className="restaurant-card-rating">Rating 3.3</h3>
+    <h3 className="restaurant-card-title">{WinnersPizza.name}</h3>
+    <h4 className="restaurant-card-category">{WinnersPizza.category}</h4>
+    <h3 className="restaurant-card-rating">{WinnersPizza.rating}</h3>
   </div>
 );
 
