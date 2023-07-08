@@ -1,0 +1,86 @@
+/* index.css */
+
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar input[type='text'] {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbar li {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .navbar li:hover {
+    color: silver;
+  }
+  
+  /* Body styles */
+  .Body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .RestourentCard {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  .RestourentCard img {
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  .RestourentCard h3 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .RestourentCard h4 {
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
+  
