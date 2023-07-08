@@ -18,7 +18,7 @@ const AppLayout = () => {
 
   return (<>
     <Header search={handleSearchText} />
-    <Body searchText={searchText}/>
+    <Body searchText={searchText} />
     <Footer />
   </>)
 }

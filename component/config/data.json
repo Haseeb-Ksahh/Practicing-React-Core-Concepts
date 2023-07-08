@@ -1599,5 +1599,1583 @@
             "new": false
         },
         "subtype": "basic"
-    }
+    },
+    {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "240445",
+        "name": "Taco Bell",
+        "uuid": "9176e25a-1133-42ef-a5c9-9ee778eeba91",
+        "city": "5",
+        "area": "Saki Naka",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "e7f40335a66b230f5eda766022dfecbd",
+        "cuisines": [
+        "Mexican"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 58,
+        "minDeliveryTime": 58,
+        "maxDeliveryTime": 58,
+        "slaString": "58 MINS",
+        "lastMileTravel": 2.700000047683716,
+        "slugs": {
+        "restaurant": "taco-bell-pmc-mall-kurla",
+        "city": "mumbai"
+        },
+        "cityState": "5",
+        "address": "Burman Hospitality . Taco Bell Restaurant . S-22, Second Floor, PMC mall, Lal Bahadur Shastri Marg, Kurla West, Mumbai - 400070",
+        "locality": "PMC mall",
+        "parentId": 1557,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+        {
+        "type": "PROMOTED"
+        }
+        ],
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3600,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3600,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3600",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7392512~p=1~eid=00000189-360f-8d55-0907-712300f30126~srvts=1688829136213",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.7 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80",
+        "discountTag": "",
+        "headerTypeV2": 0
+        },
+        "sla": {
+        "restaurantId": "240445",
+        "deliveryTime": 58,
+        "minDeliveryTime": 58,
+        "maxDeliveryTime": 58,
+        "lastMileTravel": 2.700000047683716,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "3.8",
+        "totalRatings": 1000,
+        "new": false
+        },
+        "subtype": "basic"
+        },
+        {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "355806",
+            "name": "Baba Falooda (Kurla)",
+            "uuid": "384970ad-6ed8-455a-acf6-5493551f5893",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "5000+ ratings",
+            "cloudinaryImageId": "ys88tnnklqgfhzsftmqq",
+            "cuisines": [
+            "Ice Cream",
+            "Beverages",
+            "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 40,
+            "minDeliveryTime": 40,
+            "maxDeliveryTime": 40,
+            "slaString": "40 MINS",
+            "lastMileTravel": 1,
+            "slugs": {
+            "restaurant": "baba-falooda-by-hotel-sky-way-powai-powai",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "TAYYAB MANZIL shop no 1,2,3 L.B.S Marg KURLA WEST MUMBAI 400070",
+            "locality": "Powai",
+            "parentId": 38827,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1 kms",
+            "hasSurge": false,
+            "sla": {
+            "restaurantId": "355806",
+            "deliveryTime": 40,
+            "minDeliveryTime": 40,
+            "maxDeliveryTime": 40,
+            "lastMileTravel": 1,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.4",
+            "totalRatings": 5000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "78036",
+            "name": "Burger King",
+            "uuid": "c04163ad-ab93-4fce-81da-e87d4f2687b0",
+            "city": "5",
+            "area": "Santacruz East",
+            "totalRatingsString": "10000+ ratings",
+            "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+            "cuisines": [
+            "Burgers",
+            "American"
+            ],
+            "tags": [],
+            "costForTwo": 35000,
+            "costForTwoString": "₹350 FOR TWO",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "slaString": "46 MINS",
+            "lastMileTravel": 1.5,
+            "slugs": {
+            "restaurant": "burger-king-cst-road-scruz-bandra-east",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "unit no G2, Ground floor , Central Plaza , 166,CST Road, Kalina, Mumbai 400098",
+            "locality": "Central Plaza, Kalina",
+            "parentId": 166,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 1,
+            "rainMode": "HEAVY",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.5 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "60% OFF",
+            "subHeader": "UPTO ₹120",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "78036",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "lastMileTravel": 1.5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "HEAVY",
+            "longDistance": "IT_IS_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.2",
+            "totalRatings": 10000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "163881",
+            "name": "The Netrik's Joint",
+            "uuid": "74746a4b-d08d-402c-80a2-4d69150a9144",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "wdxzjdwwa9geenuxkiqy",
+            "cuisines": [
+            "Biryani",
+            "American",
+            "Lebanese",
+            "Beverages",
+            "Chinese"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 37,
+            "minDeliveryTime": 37,
+            "maxDeliveryTime": 37,
+            "slaString": "37 MINS",
+            "lastMileTravel": 2.5999999046325684,
+            "slugs": {
+            "restaurant": "the-netrik39s-joint-kurla",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Baba Tower, Angolimala CHS, G- Wing, Shop No. 08, Nehru Nagar, East, Kurla, Mumbai - 400024",
+            "locality": "Nehru Nagar",
+            "parentId": 11848,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+            {
+            "type": "PROMOTED"
+            }
+            ],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7262031~p=4~eid=00000189-360f-8d55-0907-712400f30429~srvts=1688829136213",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.5 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "163881",
+            "deliveryTime": 37,
+            "minDeliveryTime": 37,
+            "maxDeliveryTime": 37,
+            "lastMileTravel": 2.5999999046325684,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "3.6",
+            "totalRatings": 1000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "106763",
+            "name": "Rangoon Zaika",
+            "uuid": "cd078e24-0fae-46d9-9e45-ccedc30a0834",
+            "city": "5",
+            "area": "Kurla West",
+            "totalRatingsString": "5000+ ratings",
+            "cloudinaryImageId": "o5bbufmcjoqdfvtm7r1n",
+            "cuisines": [
+            "Indian",
+            "Chinese"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 48,
+            "minDeliveryTime": 48,
+            "maxDeliveryTime": 48,
+            "slaString": "48 MINS",
+            "lastMileTravel": 0.6000000238418579,
+            "slugs": {
+            "restaurant": "rangoon-zaika-kurla-kurla",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Shop 4B-4C, Opposite Kalpana Cinema, Beside Ansari Weight Bridge, LBS Marg, Kurla, Mumbai",
+            "locality": "Kurla",
+            "parentId": 166932,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "106763",
+            "deliveryTime": 48,
+            "minDeliveryTime": 48,
+            "maxDeliveryTime": 48,
+            "lastMileTravel": 0.6000000238418579,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.7",
+            "totalRatings": 5000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "19344",
+            "name": "Deluxe Restaurant",
+            "uuid": "02a7e2f5-b247-4dc4-9111-c05d925f74b1",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "10000+ ratings",
+            "cloudinaryImageId": "c81a3911bd1e10c8ee8f92b4796ba829",
+            "cuisines": [
+            "Mughlai",
+            "Chinese"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 45,
+            "minDeliveryTime": 45,
+            "maxDeliveryTime": 45,
+            "slaString": "45 MINS",
+            "lastMileTravel": 0.800000011920929,
+            "slugs": {
+            "restaurant": "deluxe-restaurant-bandra-kurla-complex-scruz-bandra-east",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Mubeen Manzil, Near Peninsula Park, Lbs Marg, Bandra Kurla Complex, Mumbai",
+            "locality": "Lbs Marg",
+            "parentId": 70705,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.8 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "19344",
+            "deliveryTime": 45,
+            "minDeliveryTime": 45,
+            "maxDeliveryTime": 45,
+            "lastMileTravel": 0.800000011920929,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.2",
+            "totalRatings": 10000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "21369",
+            "name": "Urban Street Cafe",
+            "uuid": "f51b546e-3694-470a-a095-bac2cd9f9081",
+            "city": "5",
+            "area": "Khar West",
+            "totalRatingsString": "5000+ ratings",
+            "cloudinaryImageId": "ceaq68pzgxrmfi4clf3m",
+            "cuisines": [
+            "Italian",
+            "Lebanese",
+            "Chinese",
+            "Indian",
+            "Mexican",
+            "Biryani",
+            "Pan-Asian",
+            "Asian",
+            "Salads",
+            "American"
+            ],
+            "tags": [],
+            "costForTwo": 45000,
+            "costForTwoString": "₹450 FOR TWO",
+            "deliveryTime": 52,
+            "minDeliveryTime": 52,
+            "maxDeliveryTime": 52,
+            "slaString": "52 MINS",
+            "lastMileTravel": 6.400000095367432,
+            "slugs": {
+            "restaurant": "urban-street-cafe-khar-bandra-west-bandra-west",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Bhavya Plaza, Shop 1, Near Kotak Mahindra Bank, Khar, Mumbai",
+            "locality": "Khar West",
+            "parentId": 220155,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+            {
+            "type": "PROMOTED"
+            }
+            ],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 6900,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 6900,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "6900",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7264841~p=7~eid=00000189-360f-8d55-0907-712500f30707~srvts=1688829136213",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "6.4 kms",
+            "hasSurge": false,
+            "sla": {
+            "restaurantId": "21369",
+            "deliveryTime": 52,
+            "minDeliveryTime": 52,
+            "maxDeliveryTime": 52,
+            "lastMileTravel": 6.400000095367432,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.4",
+            "totalRatings": 5000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "48030",
+            "name": "Sahara Hotel - Kurla",
+            "uuid": "4ffa188b-b74e-4b62-b141-de7a145f8efe",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "qhd1a0qhl4iuaiwpf5rs",
+            "cuisines": [
+            "North Indian",
+            "Chinese",
+            "Mughlai",
+            "Beverages"
+            ],
+            "tags": [],
+            "costForTwo": 65000,
+            "costForTwoString": "₹650 FOR TWO",
+            "deliveryTime": 44,
+            "minDeliveryTime": 44,
+            "maxDeliveryTime": 44,
+            "slaString": "44 MINS",
+            "lastMileTravel": 0.699999988079071,
+            "slugs": {
+            "restaurant": "sahara-hotel-kurla-kurla",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Near Kalpana Cinema, LBS Marg, Kurla West, Kurla, Mumbai",
+            "locality": "Near Kalpana Cinema",
+            "parentId": 174631,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "sla": {
+            "restaurantId": "48030",
+            "deliveryTime": 44,
+            "minDeliveryTime": 44,
+            "maxDeliveryTime": 44,
+            "lastMileTravel": 0.699999988079071,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.1",
+            "totalRatings": 1000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "153348",
+            "name": "Nawab Seekh Corner",
+            "uuid": "f1385485-35be-485a-8b97-b7a76f1e46f6",
+            "city": "5",
+            "area": "Mumbai",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "ssbxpgkn1fmjljx8p2k4",
+            "cuisines": [
+            "North Indian"
+            ],
+            "tags": [],
+            "costForTwo": 55000,
+            "costForTwoString": "₹550 FOR TWO",
+            "deliveryTime": 69,
+            "minDeliveryTime": 69,
+            "maxDeliveryTime": 69,
+            "slaString": "69 MINS",
+            "lastMileTravel": 0.6000000238418579,
+            "slugs": {
+            "restaurant": "nawab-seekh-corner-kurla-kurla",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Nawab Seekh Corner, Near Delhi Zaika and Kalpana Cinema, LBS Marg, Kurla West, Kurla, Mumbai",
+            "locality": "Kurla",
+            "parentId": 144982,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "sla": {
+            "restaurantId": "153348",
+            "deliveryTime": 69,
+            "minDeliveryTime": 69,
+            "maxDeliveryTime": 69,
+            "lastMileTravel": 0.6000000238418579,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.1",
+            "totalRatings": 1000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "698272",
+            "name": "Maiz Mexican Kitchen",
+            "uuid": "af97c998-0199-48ab-8d24-2122cd4c2e36",
+            "city": "5",
+            "area": "BKC",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "8fb434032fdce4f38d98fef761589c25",
+            "cuisines": [
+            "Mexican",
+            "Italian",
+            "American"
+            ],
+            "tags": [],
+            "costForTwo": 60000,
+            "costForTwoString": "₹600 FOR TWO",
+            "deliveryTime": 52,
+            "minDeliveryTime": 52,
+            "maxDeliveryTime": 52,
+            "slaString": "52 MINS",
+            "lastMileTravel": 1.399999976158142,
+            "slugs": {
+            "restaurant": "maiz-mexican-kitchen-bandra-west-bandra-west",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "OFFICE NO. 10, SWASTIK INDUSTRIAL ESTATE, VIDYANAGARI MARG, KALINA CST ROAD, SANTACRUZ EAST MUMBAI , Greater Mumbai Ward-H/E, Greater Mumbai, Maharashtra-400098",
+            "locality": "Kalina Cst Road",
+            "parentId": 11654,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+            {
+            "type": "PROMOTED"
+            }
+            ],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "HEAVY",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7352418~p=10~eid=00000189-360f-8d55-0907-712600f30a5d~srvts=1688829136213",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.3 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "40% OFF",
+            "subHeader": "UPTO ₹80",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "698272",
+            "deliveryTime": 52,
+            "minDeliveryTime": 52,
+            "maxDeliveryTime": 52,
+            "lastMileTravel": 1.399999976158142,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "HEAVY",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.3",
+            "totalRatings": 100,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "358147",
+            "name": "Meraki",
+            "uuid": "534603b2-56ae-41c1-922c-725b4d33edb9",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "5000+ ratings",
+            "cloudinaryImageId": "wmmzbfzsvrxc38x9tvho",
+            "cuisines": [
+            "Chinese",
+            "Burmese",
+            "Thai",
+            "Beverages",
+            "Thalis"
+            ],
+            "tags": [],
+            "costForTwo": 50000,
+            "costForTwoString": "₹500 FOR TWO",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "slaString": "46 MINS",
+            "lastMileTravel": 0.699999988079071,
+            "slugs": {
+            "restaurant": "meraki-scruz-bandra-east-scruz-bandra-east-2",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Shop no. 10/11, kasam Chunawlaa Compound, Shastri Nagar, Kalina, Near Bimsillah Hotel, Santacruz East 400029",
+            "locality": "Shastri Nagar",
+            "parentId": 2356,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 1,
+            "rainMode": "HEAVY",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "₹125 OFF",
+            "subHeader": "ABOVE ₹249",
+            "discountTag": "FLAT DEAL",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "358147",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "lastMileTravel": 0.699999988079071,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "HEAVY",
+            "longDistance": "IT_IS_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.2",
+            "totalRatings": 5000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "303850",
+            "name": "Janata Tawa And Grill",
+            "uuid": "b80b70ef-954f-46a4-9d17-63516b03c9b6",
+            "city": "5",
+            "area": "Kurla West",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "zrusx2rcjtsxpksm4lne",
+            "cuisines": [
+            "Indian",
+            "Chinese",
+            "Tandoor"
+            ],
+            "tags": [],
+            "costForTwo": 50000,
+            "costForTwoString": "₹500 FOR TWO",
+            "deliveryTime": 47,
+            "minDeliveryTime": 47,
+            "maxDeliveryTime": 47,
+            "slaString": "47 MINS",
+            "lastMileTravel": 0.6000000238418579,
+            "slugs": {
+            "restaurant": "janata tawa and grill-kurla-kurla",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SHOP NO 01 AND 02 RASIWALA CHAWL NEAR SALMAN CHAMBER KURLA WEST MUMBAI 400070 GREATER MUMBAI, MAHARASHTRA 400070",
+            "locality": "Kurla",
+            "parentId": 109562,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "10% OFF",
+            "subHeader": "UPTO ₹40",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "303850",
+            "deliveryTime": 47,
+            "minDeliveryTime": 47,
+            "maxDeliveryTime": 47,
+            "lastMileTravel": 0.6000000238418579,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.1",
+            "totalRatings": 1000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "711497",
+            "name": "Hello Momo",
+            "uuid": "7fd74d40-4332-490c-815c-ba8f3e411ff2",
+            "city": "5",
+            "area": "Powai",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "74327ad91054bf5b0f60d9acf5815268",
+            "cuisines": [
+            "Chinese"
+            ],
+            "tags": [],
+            "costForTwo": 25000,
+            "costForTwoString": "₹250 FOR TWO",
+            "deliveryTime": 61,
+            "minDeliveryTime": 61,
+            "maxDeliveryTime": 61,
+            "slaString": "61 MINS",
+            "lastMileTravel": 5,
+            "slugs": {
+            "restaurant": "hello-momo-powai-powai",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Unit 107, Liberty Industrial Estate, Chandivli , Mumbai , Chandivali Gaon (E), Greater Mumbai Ward-L, Greater Mumbai, Maharashtra - 400072",
+            "locality": "Liberty Industrial Estate",
+            "parentId": 95365,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+            {
+            "type": "PROMOTED"
+            }
+            ],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 6100,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 6100,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "6100",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7263428~p=13~eid=00000189-360f-8d55-0907-712700f30d28~srvts=1688829136213",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "5 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "711497",
+            "deliveryTime": 61,
+            "minDeliveryTime": 61,
+            "maxDeliveryTime": 61,
+            "lastMileTravel": 5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": true
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "372200",
+            "name": "New Lajawaab Seekh Corner",
+            "uuid": "d17d7cb9-a980-4515-b15d-3d75212457f8",
+            "city": "5",
+            "area": "Bhd Kurla Weight Bridge",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "wtjwh915fnytypbywvcs",
+            "cuisines": [
+            "Indian"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "slaString": "46 MINS",
+            "lastMileTravel": 0.6000000238418579,
+            "slugs": {
+            "restaurant": "new-lajawaab-seekh-corner-kurla-kurla",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "GALA NO 1,2,3, BHD KURLA WEIGHT BRIDGE LBS ROAD KURLA WEST MUMBAI 400070",
+            "locality": "Kurla",
+            "parentId": 147071,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "₹100 OFF",
+            "subHeader": "ABOVE ₹599",
+            "discountTag": "FLAT DEAL",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "372200",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "lastMileTravel": 0.6000000238418579,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.1",
+            "totalRatings": 1000,
+            "new": false
+            },
+            "subtype": "basic"
+            },
+            {
+            "type": "restaurant",
+            "data": {
+            "type": "F",
+            "id": "82668",
+            "name": "The Belgian Waffle Co.",
+            "uuid": "81a57548-8c03-4f5d-95e0-4f32a060fa60",
+            "city": "5",
+            "area": "Santacruz East",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "gwfdgqjf5oymhegcvhvn",
+            "cuisines": [
+            "Waffle",
+            "Desserts",
+            "Ice Cream",
+            "Beverages"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 51,
+            "minDeliveryTime": 51,
+            "maxDeliveryTime": 51,
+            "slaString": "51 MINS",
+            "lastMileTravel": 1.5,
+            "slugs": {
+            "restaurant": "the-belgian-waffle-co-kalina-scruz-bandra-east",
+            "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "No. 5, SUMIT ARTISTA, opp. AUDI SERVICE CENTER, Near BKC, KALINA, SANTACRUZ (E)Greater Mumbai, Maharashtra, 400059",
+            "locality": "Kalina",
+            "parentId": 2233,
+            "unserviceable": false,
+            "veg": true,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+            "fees": [
+            {
+            "name": "distance",
+            "fee": 3600,
+            "message": ""
+            },
+            {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+            },
+            {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+            }
+            ],
+            "totalFees": 3600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "3600",
+            "icon": ""
+            },
+            "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "HEAVY",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+            "imageBased": [],
+            "textBased": [],
+            "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.5 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50",
+            "discountTag": "",
+            "headerTypeV2": 0
+            },
+            "sla": {
+            "restaurantId": "82668",
+            "deliveryTime": 51,
+            "minDeliveryTime": 51,
+            "maxDeliveryTime": 51,
+            "lastMileTravel": 1.5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "HEAVY",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.3",
+            "totalRatings": 1000,
+            "new": false
+            },
+            "subtype": "basic"
+            }
 ]
