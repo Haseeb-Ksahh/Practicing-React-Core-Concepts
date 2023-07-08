@@ -1,0 +1,1603 @@
+[
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "23702",
+            "name": "McDonald's",
+            "uuid": "82919ac9-6bc4-4af7-b692-a438d3d5364d",
+            "city": "5",
+            "area": "Andheri East",
+            "totalRatingsString": "10000+ ratings",
+            "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+            "cuisines": [
+                "Burgers",
+                "Beverages",
+                "Cafe",
+                "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 41,
+            "minDeliveryTime": 41,
+            "maxDeliveryTime": 41,
+            "slaString": "41 MINS",
+            "lastMileTravel": 8.800000190734863,
+            "slugs": {
+                "restaurant": "mc-donalds-andheri-east-andheri-east",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "McDonald's Family Restaurant, Hindu Vabhavan, Sahar Rd, Near Andheri Station, Andheri (E)",
+            "locality": "Vaibhav",
+            "parentId": 630,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 7800,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 7800,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "7800",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7351545~p=1~eid=00000189-3310-6c61-05d8-b6d800890130~srvts=1688778861665",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "8.8 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "FREE ITEM",
+                "subHeader": "",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "23702",
+                "deliveryTime": 41,
+                "minDeliveryTime": 41,
+                "maxDeliveryTime": 41,
+                "lastMileTravel": 8.800000190734863,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.3",
+            "totalRatings": 10000,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "481925",
+            "name": "Nanno Chinese Corner And Fast Food",
+            "uuid": "39879d38-e38c-4fb7-990a-b735f4db57bb",
+            "city": "5",
+            "area": "Ghatkopar West",
+            "totalRatingsString": "20+ ratings",
+            "cloudinaryImageId": "a7kljjrff8u0h2mmlc4o",
+            "cuisines": [
+                "Chinese"
+            ],
+            "tags": [],
+            "costForTwo": 30000,
+            "costForTwoString": "₹300 FOR TWO",
+            "deliveryTime": 38,
+            "minDeliveryTime": 38,
+            "maxDeliveryTime": 38,
+            "slaString": "38 MINS",
+            "lastMileTravel": 2.5,
+            "slugs": {
+                "restaurant": "nanno-chinese-corner-and-fast-food-ghatkopar-vikhroli-ghatkopar-vikhroli",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Shop number.751,opposite Learners academy school gaiban shah dargah road gurunanak nagar (narayan nagar) ghatkopar west mumbai., Narayan Nagar, Greater Mumbai Ward-N, Greater Mumbai, Maharashtra ",
+            "locality": "Opposite Learners academy school",
+            "parentId": 290296,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.5 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "ABOVE ₹500",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "481925",
+                "deliveryTime": 38,
+                "minDeliveryTime": 38,
+                "maxDeliveryTime": 38,
+                "lastMileTravel": 2.5,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.8",
+            "totalRatings": 20,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "651709",
+            "name": "Amritsari & Panjbai Paratha",
+            "uuid": "9898c234-f015-4aff-ad52-03a90afa0c83",
+            "city": "5",
+            "area": "Chembur",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "edf7faef3a2a7cd17fa65385e3d76ed8",
+            "cuisines": [
+                "North Indian"
+            ],
+            "tags": [],
+            "costForTwo": 15000,
+            "costForTwoString": "₹150 FOR TWO",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "slaString": "30 MINS",
+            "lastMileTravel": 2.799999952316284,
+            "slugs": {
+                "restaurant": "amritsari-&-panjbai-paratha-huda-city-huda-city",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SHOP NO-85 M H B/6 BHARAT NAGAR .TILAK NAGAR ROAD NO3 CHEMBUR ,Kurla Gaon,Greater Mumbai Ward-L,Greater Mumbai,Maharashtra-400089",
+            "locality": "TILAK NAGAR ROAD NO 3",
+            "parentId": 268794,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": "Closes soon"
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.7 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "651709",
+                "deliveryTime": 30,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 2.799999952316284,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.3",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "582053",
+            "name": "Tiffins by Sam",
+            "uuid": "42efb6a5-40b1-4608-8598-2794cbf5d36f",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "t2nyvcl4vqtbo9277cpa",
+            "cuisines": [
+                "Maharashtrian",
+                "Indian",
+                "Snacks"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 46,
+            "minDeliveryTime": 46,
+            "maxDeliveryTime": 46,
+            "slaString": "46 MINS",
+            "lastMileTravel": 3,
+            "slugs": {
+                "restaurant": "tiffins-by-sam-kurla-kurla-2",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Tiffins by Sam FC-06, 3rd Floor, East Point Mall S.G. Barve Marg, Opp. Kurla East Railway Station, Kurla East, Mumbai, Kurla Turminus, Greater Mumbai Ward-L, Greater Mumbai, Maharashtra - 400024",
+            "locality": "Sg Barve Marg",
+            "parentId": 231761,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3900,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3900,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3900",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7384368~p=4~eid=00000189-3310-6c61-05d8-b6d90089044f~srvts=1688778861665",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "3 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "₹100 OFF",
+                "subHeader": "ABOVE ₹749",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "582053",
+                "deliveryTime": 46,
+                "minDeliveryTime": 46,
+                "maxDeliveryTime": 46,
+                "lastMileTravel": 3,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "3.8",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "524904",
+            "name": "Arbaz Chinese Corner And Fastfood",
+            "uuid": "c3e6b34d-fe25-4e40-8aef-3b684a5a4cd4",
+            "city": "5",
+            "area": "Ghatkopar West",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "d7limmpakjhtu0so1jpo",
+            "cuisines": [
+                "Chinese",
+                "Snacks",
+                "Biryani",
+                "Fast Food"
+            ],
+            "tags": [],
+            "costForTwo": 30000,
+            "costForTwoString": "₹300 FOR TWO",
+            "deliveryTime": 40,
+            "minDeliveryTime": 40,
+            "maxDeliveryTime": 40,
+            "slaString": "40 MINS",
+            "lastMileTravel": 2.5,
+            "slugs": {
+                "restaurant": "arbaz-chinese-corner-and-fastfood-ghatkopar-vikhroli-ghatkopar-vikhroli",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": " Shop No.751,opposite Learners Academy School,Gaiban Shah dargah road Gurunanak Nagar (narayan nagar).Ghatkopar West Mumbai,greater Mumbai -N,400086",
+            "locality": "Opposite Learners academy school",
+            "parentId": 313097,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.5 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "524904",
+                "deliveryTime": 40,
+                "minDeliveryTime": 40,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 2.5,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "659664",
+            "name": "Natural Tasty Paratha",
+            "uuid": "6ecdd955-f991-4f80-b8fb-c84aa120eb2c",
+            "city": "5",
+            "area": "Chembur",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "04fc30e16b991d43dcde95df271a942e",
+            "cuisines": [
+                "North Indian",
+                "Beverages",
+                "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 15000,
+            "costForTwoString": "₹150 FOR TWO",
+            "deliveryTime": 33,
+            "minDeliveryTime": 33,
+            "maxDeliveryTime": 33,
+            "slaString": "33 MINS",
+            "lastMileTravel": 2.799999952316284,
+            "slugs": {
+                "restaurant": "natural-tasty-paratha-huda-city-huda-city",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SHOP NO -85 M H B/6 BHARAT NAGAR.TILAK NAGAR ROAD NO 3 CHEMBUR GREATER MUMBAI WARD -M/W MAHARASHTRA -400089, Tilak Nagar, Greater Mumbai Ward-M/W, Greater Mumbai, Maharashtra, 400089 ",
+            "locality": "TILAK NAGAR ROAD NO 3",
+            "parentId": 396186,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": "Closes soon"
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.7 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "659664",
+                "deliveryTime": 33,
+                "minDeliveryTime": 33,
+                "maxDeliveryTime": 33,
+                "lastMileTravel": 2.799999952316284,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "484553",
+            "name": "Chai Point",
+            "uuid": "60e27f02-f8f1-44fa-a9c0-177c53d56245",
+            "city": "5",
+            "area": "Bandra west",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "zno6ur1qmgaarwslcfoh",
+            "cuisines": [
+                "Bakery",
+                "Beverages",
+                "Maharashtrian",
+                "Snacks",
+                "Street Food",
+                "South Indian",
+                "Punjabi",
+                "Chaat",
+                "Indian",
+                "American",
+                "North Indian",
+                "Fast Food",
+                "Desserts",
+                "Cafe",
+                "Healthy Food",
+                "Home Food"
+            ],
+            "tags": [],
+            "costForTwo": 15000,
+            "costForTwoString": "₹150 FOR TWO",
+            "deliveryTime": 52,
+            "minDeliveryTime": 52,
+            "maxDeliveryTime": 52,
+            "slaString": "52 MINS",
+            "lastMileTravel": 6,
+            "slugs": {
+                "restaurant": "chai-point-hill-road-bandra-west",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Shop no 28, bandra liberty,CHS plot 98 B,hill road, bandra west,Mumbai-400050",
+            "locality": "Hill road",
+            "parentId": 1607,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 5700,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 5700,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "5700",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7353948~p=7~eid=00000189-3310-6c61-05d8-b6da0089077c~srvts=1688778861665",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "6 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "484553",
+                "deliveryTime": 52,
+                "minDeliveryTime": 52,
+                "maxDeliveryTime": 52,
+                "lastMileTravel": 6,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.2",
+            "totalRatings": 1000,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "24458",
+            "name": "Anna Idli",
+            "uuid": "86ffae7f-8b4c-4cb7-9fca-9c7190f6ac4c",
+            "city": "5",
+            "area": "Kurla",
+            "totalRatingsString": "10000+ ratings",
+            "cloudinaryImageId": "qey4uyhqmnhi4unruxa8",
+            "cuisines": [
+                "South Indian"
+            ],
+            "tags": [],
+            "costForTwo": 10000,
+            "costForTwoString": "₹100 FOR TWO",
+            "deliveryTime": 48,
+            "minDeliveryTime": 48,
+            "maxDeliveryTime": 48,
+            "slaString": "48 MINS",
+            "lastMileTravel": 3,
+            "slugs": {
+                "restaurant": "anna-idli-chembur-east-chembur",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Anna Idli, Shop no. 4, building no.21, Gurukripa CHS Tilak Nagar, Chembur, Mumbai-400089",
+            "locality": "Tilak Nagar",
+            "parentId": 3790,
+            "unserviceable": false,
+            "veg": true,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3900,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3900,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3900",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "3 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "10% OFF",
+                "subHeader": "UPTO ₹40",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "24458",
+                "deliveryTime": 48,
+                "minDeliveryTime": 48,
+                "maxDeliveryTime": 48,
+                "lastMileTravel": 3,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.9",
+            "totalRatings": 10000,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "659602",
+            "name": "Tasty Of Panjbai Paratha ",
+            "uuid": "0c63a3cf-0772-44c0-8850-8f4f1ddfb118",
+            "city": "5",
+            "area": "Chembur",
+            "totalRatingsString": "20+ ratings",
+            "cloudinaryImageId": "e2492033715f85d0840c5e9e33e6b5b9",
+            "cuisines": [
+                "Indian"
+            ],
+            "tags": [],
+            "costForTwo": 15000,
+            "costForTwoString": "₹150 FOR TWO",
+            "deliveryTime": 39,
+            "minDeliveryTime": 39,
+            "maxDeliveryTime": 39,
+            "slaString": "39 MINS",
+            "lastMileTravel": 2.799999952316284,
+            "slugs": {
+                "restaurant": "tasty-of-panjbai-paratha-huda-city-huda-city",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SHOP NO -85 M H B/6 BHARAT NAGAR.TILAK NAGAR ROAD NO 3 CHEMBUR GREATER MUMBAI WARD -M/W MAHARASHTRA -400089, Tilak Nagar, Greater Mumbai Ward-M/W, Greater Mumbai, Maharashtra, 400089",
+            "locality": "TILAK NAGAR ROAD NO 3",
+            "parentId": 396177,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": "Closes soon"
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.7 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "659602",
+                "deliveryTime": 39,
+                "minDeliveryTime": 39,
+                "maxDeliveryTime": 39,
+                "lastMileTravel": 2.799999952316284,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.7",
+            "totalRatings": 20,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "613051",
+            "name": "Ande Ka Fanda",
+            "uuid": "dfe76453-be6f-41cd-afdc-c06c5a654156",
+            "city": "5",
+            "area": "Andheri East",
+            "totalRatingsString": "50+ ratings",
+            "cloudinaryImageId": "vsbzjpdyoxssrwlv1cej",
+            "cuisines": [
+                "Fast Food",
+                "Snacks",
+                "Beverages"
+            ],
+            "tags": [],
+            "costForTwo": 30000,
+            "costForTwoString": "₹300 FOR TWO",
+            "deliveryTime": 66,
+            "minDeliveryTime": 66,
+            "maxDeliveryTime": 66,
+            "slaString": "66 MINS",
+            "lastMileTravel": 9.300000190734863,
+            "slugs": {
+                "restaurant": "ande-ka-fanda-andheri-east-andheri-east",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Bowlekar Ground, 4VJ9+4RG, Mahakali Caves Rd, Sunder Nagar, Andheri East, Mumbai, Maharashtra 400093, India",
+            "locality": "Sunder Nagar",
+            "parentId": 16742,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 9300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 9300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "9300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7409847~p=10~eid=00000189-3310-6c61-05d8-b6db00890a32~srvts=1688778861665",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "9.3 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "613051",
+                "deliveryTime": 66,
+                "minDeliveryTime": 66,
+                "maxDeliveryTime": 66,
+                "lastMileTravel": 9.300000190734863,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.4",
+            "totalRatings": 50,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "711877",
+            "name": "oye Tasty Paratha",
+            "uuid": "dabefebf-a769-4440-9fc8-85d413713155",
+            "city": "5",
+            "area": "Chembur",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "2ee125ce52831eebe268b7e2e62f9b96",
+            "cuisines": [
+                "North Indian",
+                "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 15000,
+            "costForTwoString": "₹150 FOR TWO",
+            "deliveryTime": 40,
+            "minDeliveryTime": 40,
+            "maxDeliveryTime": 40,
+            "slaString": "40 MINS",
+            "lastMileTravel": 2.799999952316284,
+            "slugs": {
+                "restaurant": "foodies-paratha-point-chembur-chembur-2",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SHOP NO-85 M H B/6 BHARAT NAGAR .TILAK NAGAR ROAD NO3 CHEMBUR ,Kurla Gaon,Greater Mumbai Ward-L,Greater Mumbai,Maharashtra-400089",
+            "locality": "Tilak Nagar",
+            "parentId": 430753,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": "Closes soon"
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.7 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "711877",
+                "deliveryTime": 40,
+                "minDeliveryTime": 40,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 2.799999952316284,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": true
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "713064",
+            "name": "Oye King Paratha",
+            "uuid": "9ea99e72-6ad3-43f3-9022-0d2a71d2e171",
+            "city": "5",
+            "area": "Chembur",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "aba45375462798eb6c7727b639f893db",
+            "cuisines": [
+                "Indian",
+                "Snacks"
+            ],
+            "tags": [],
+            "costForTwo": 15000,
+            "costForTwoString": "₹150 FOR TWO",
+            "deliveryTime": 35,
+            "minDeliveryTime": 35,
+            "maxDeliveryTime": 35,
+            "slaString": "35 MINS",
+            "lastMileTravel": 2.799999952316284,
+            "slugs": {
+                "restaurant": "oye-king-paratha-chembur-chembur",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SHOP NO-85 M H B/6 BHARAT NAGAR .TILAK NAGAR ROAD NO3 CHEMBUR ,Kurla Gaon,Greater Mumbai Ward-L,Greater Mumbai,Maharashtra-400089",
+            "locality": "Bharat Nagar",
+            "parentId": 425727,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": "Closes soon"
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.7 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "713064",
+                "deliveryTime": 35,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 35,
+                "lastMileTravel": 2.799999952316284,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": true
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "619997",
+            "name": "Bodypower Cafe",
+            "uuid": "40c9ff24-bd6b-4e1c-ba7e-b59c4ba5eeca",
+            "city": "5",
+            "area": "Powai",
+            "totalRatingsString": "500+ ratings",
+            "cloudinaryImageId": "zima5zfcgpenvy5egjv0",
+            "cuisines": [
+                "Indian",
+                "South Indian",
+                "Healthy Food",
+                "Beverages"
+            ],
+            "tags": [],
+            "costForTwo": 45000,
+            "costForTwoString": "₹450 FOR TWO",
+            "deliveryTime": 52,
+            "minDeliveryTime": 52,
+            "maxDeliveryTime": 52,
+            "slaString": "52 MINS",
+            "lastMileTravel": 9.399999618530273,
+            "slugs": {
+                "restaurant": "bodypower-cafe-powai-powai",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "Room No. 2/A, First Floor, Ekta Nagar, IIT Market Signal, Opp. IIT Post Office, Powai, Mumbai - 400076, Powai Lake, Greater Mumbai Ward-S, Greater Mumbai, Maharashtra - 400076",
+            "locality": "Jyotiba Phule Nagar",
+            "parentId": 280671,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 9300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 9300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "9300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": "Closes soon"
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=7375103~p=13~eid=00000189-3310-6c61-05d8-b6dc00890d17~srvts=1688778861665",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "9.3 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹249",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "619997",
+                "deliveryTime": 52,
+                "minDeliveryTime": 52,
+                "maxDeliveryTime": 52,
+                "lastMileTravel": 9.399999618530273,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.1",
+            "totalRatings": 500,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "88048",
+            "name": "The Legendary Milkshakes Bar",
+            "uuid": "ca645389-96d3-4520-ace9-794fc0385487",
+            "city": "5",
+            "area": "Tilak Nagar",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "kr9yr5a2cwiwibmnhshh",
+            "cuisines": [
+                "Ice Cream",
+                "Beverages",
+                "Fast Food",
+                "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 25000,
+            "costForTwoString": "₹250 FOR TWO",
+            "deliveryTime": 43,
+            "minDeliveryTime": 43,
+            "maxDeliveryTime": 43,
+            "slaString": "43 MINS",
+            "lastMileTravel": 2.700000047683716,
+            "slugs": {
+                "restaurant": "the-legendary-milkshakes-bar-navi-mumbai-vam",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "SH 14, METER CABIN NO 2, B WING, BUILDING NO 15, TILAK NAGAR, SARVA MANGAL CHS, OPP SAMAJ MANDIR, CHEMBUR, MUMBAI-400089, Tilak Nagar, Greater Mumbai Ward-M/W, Greater Mumbai, Maharashtra - 400089",
+            "locality": "Tilak Nagar",
+            "parentId": 210868,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3300,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.7 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "₹250 OFF",
+                "subHeader": "ABOVE ₹999",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "88048",
+                "deliveryTime": 43,
+                "minDeliveryTime": 43,
+                "maxDeliveryTime": 43,
+                "lastMileTravel": 2.700000047683716,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.9",
+            "totalRatings": 1000,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "651820",
+            "name": "Mumbai Lunch Home ",
+            "uuid": "ec8a048e-2faa-4138-b4cb-8fdcbe3f1746",
+            "city": "5",
+            "area": "Marol Sakinaka",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "3e440c9e5d3b6eb548114209e36e3185",
+            "cuisines": [
+                "Indian",
+                "Thalis",
+                "North Indian"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 47,
+            "minDeliveryTime": 47,
+            "maxDeliveryTime": 47,
+            "slaString": "47 MINS",
+            "lastMileTravel": 3,
+            "slugs": {
+                "restaurant": "mumbai-lunch-home-marol-sakinaka-marol-sakinaka",
+                "city": "mumbai"
+            },
+            "cityState": "5",
+            "address": "A-49, Kajupada Pipeline Rd, Satya Nagar, Sathi D Souza Nagar, Saki Naka, Mumbai, Maharashtra 400072, India",
+            "locality": "Sathi D Souza Nagar",
+            "parentId": 392310,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "chain": [],
+            "feeDetails": {
+                "fees": [
+                    {
+                        "name": "distance",
+                        "fee": 3900,
+                        "message": ""
+                    },
+                    {
+                        "name": "time",
+                        "fee": 0,
+                        "message": ""
+                    },
+                    {
+                        "name": "special",
+                        "fee": 0,
+                        "message": ""
+                    }
+                ],
+                "totalFees": 3900,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3900",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "3 kms",
+            "hasSurge": false,
+            "aggregatedDiscountInfoV3": {
+                "header": "15% OFF",
+                "subHeader": "UPTO ₹45",
+                "discountTag": "",
+                "headerTypeV2": 0
+            },
+            "sla": {
+                "restaurantId": "651820",
+                "deliveryTime": 47,
+                "minDeliveryTime": 47,
+                "maxDeliveryTime": 47,
+                "lastMileTravel": 3,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": false
+        },
+        "subtype": "basic"
+    }
+]

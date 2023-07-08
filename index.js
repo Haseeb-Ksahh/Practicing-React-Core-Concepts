@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import { LOGOURL } from './component/config';
+import DATA from './component/data.json'
 
 // Logo component
 const Logo = () => (
@@ -37,31 +38,28 @@ function Header() {
   );
 }
 
-const WinnersPizza = {
-  imgURL: LOGOURL,
-  name: "Winners Pizza - Fresh dough",
-  category: ['Pizza', 'Italian', 'Dessert'],
-  rating: "3.3 stars"
-}
-
 // RestaurantCard component
-const RestaurantCard = () => (
-  <div className="restaurant-card">
+const RestaurantCard = ({ name, cuisines, totalRatingsString, cloudinaryImageId }) => {
+
+  return (<div className="restaurant-card">
     <img
-      src="https://b.zmtcdn.com/data/pictures/chains/5/19748365/c3cc93d05fdd7d2a1cfa3aa91f917fff_o2_featured_v2.jpg?output-format=webp"
-      alt="restaurantPic"
+      src={"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/" + cloudinaryImageId}
       className="restaurant-card-image"
     />
-    <h3 className="restaurant-card-title">{WinnersPizza.name}</h3>
-    <h4 className="restaurant-card-category">{WinnersPizza.category}</h4>
-    <h3 className="restaurant-card-rating">{WinnersPizza.rating}</h3>
-  </div>
-);
+    <h3 className="restaurant-card-title">{name}</h3>
+    <h4 className="restaurant-card-category">{cuisines.join(", ")}</h4>
+    <h3 className="restaurant-card-rating">{totalRatingsString}</h3>
+  </div>)
+}
 
 // Body component
 const Body = () => (
   <div className="body">
-    <RestaurantCard />
+    {
+      DATA.map((restaurant) => {
+        return <RestaurantCard {...restaurant.data} />
+      })
+    }
   </div>
 );
 
