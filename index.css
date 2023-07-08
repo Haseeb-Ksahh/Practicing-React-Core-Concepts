@@ -17,42 +17,46 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   
+  .logo {
+    height: 21px;
+  }
+  
   .navbar {
     display: flex;
     align-items: center;
   }
   
-  .navbar input[type='text'] {
+  .search-input {
     padding: 8px;
     border-radius: 4px;
     border: 1px solid #ccc;
     margin-right: 10px;
   }
   
-  .navbar ul {
+  .navbar-menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
   }
   
-  .navbar li {
+  .navbar-menu li {
     margin-right: 10px;
     cursor: pointer;
   }
   
-  .navbar li:hover {
+  .navbar-menu li:hover {
     color: silver;
   }
   
   /* Body styles */
-  .Body {
+  .body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
   }
   
-  .RestourentCard {
+  .restaurant-card {
     width: 300px;
     margin: 10px;
     padding: 10px;
@@ -61,24 +65,32 @@ body {
     text-align: center;
   }
   
-  .RestourentCard img {
+  .restaurant-card-image {
     height: 150px;
     object-fit: cover;
     border-radius: 4px;
   }
   
-  .RestourentCard h3 {
+  .restaurant-card-title {
     margin-top: 10px;
     font-size: 18px;
+    color: #333;
   }
   
-  .RestourentCard h4 {
+  .restaurant-card-category {
     margin-top: 5px;
     font-size: 14px;
+    color: #333;
+  }
+  
+  .restaurant-card-rating {
+    margin-top: 5px;
+    font-size: 16px;
+    color: #333;
   }
   
   /* Footer styles */
-  footer {
+  .footer {
     background-color: #f5f5f5;
     padding: 20px;
     text-align: center;
