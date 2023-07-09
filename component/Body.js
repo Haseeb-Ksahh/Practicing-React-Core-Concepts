@@ -13,6 +13,7 @@ const Body = ({ searchText }) => {
     setRestaurants(filtered);
   }, [searchText]);
 
+
   return (
     <div className="body">
       {restaurants.map((restaurant) => (
