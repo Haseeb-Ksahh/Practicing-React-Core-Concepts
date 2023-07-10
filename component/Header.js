@@ -31,7 +31,7 @@ function Header({ search }) {
           value={searchText}
           className="search-input"
         />
-        <button onClick={handleSearchclick}> Search </button>
+        <button className='searchButton' onClick={handleSearchclick}> Search </button>
 
         <ul className="navbar-menu">
           <li>Home</li>
