@@ -36,7 +36,13 @@ function Header({ search }) {
           <li>
             <Link to="/about">About</Link>
           </li>
-          <li>Cart</li>
+          <li>
+            <Link to="/restaurant/123">Restaurant Menu</Link>
+          </li>
+          <li>
+            <Link to="/classcomponent">Anything</Link>
+          </li>
+          
         </ul>
       </div>
     </div>

@@ -1811,110 +1811,6 @@
             "type": "restaurant",
             "data": {
             "type": "F",
-            "id": "78036",
-            "name": "Burger King",
-            "uuid": "c04163ad-ab93-4fce-81da-e87d4f2687b0",
-            "city": "5",
-            "area": "Santacruz East",
-            "totalRatingsString": "10000+ ratings",
-            "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
-            "cuisines": [
-            "Burgers",
-            "American"
-            ],
-            "tags": [],
-            "costForTwo": 35000,
-            "costForTwoString": "₹350 FOR TWO",
-            "deliveryTime": 46,
-            "minDeliveryTime": 46,
-            "maxDeliveryTime": 46,
-            "slaString": "46 MINS",
-            "lastMileTravel": 1.5,
-            "slugs": {
-            "restaurant": "burger-king-cst-road-scruz-bandra-east",
-            "city": "mumbai"
-            },
-            "cityState": "5",
-            "address": "unit no G2, Ground floor , Central Plaza , 166,CST Road, Kalina, Mumbai 400098",
-            "locality": "Central Plaza, Kalina",
-            "parentId": 166,
-            "unserviceable": false,
-            "veg": false,
-            "select": false,
-            "favorite": false,
-            "tradeCampaignHeaders": [],
-            "chain": [],
-            "feeDetails": {
-            "fees": [
-            {
-            "name": "distance",
-            "fee": 3600,
-            "message": ""
-            },
-            {
-            "name": "special",
-            "fee": 0,
-            "message": ""
-            },
-            {
-            "name": "time",
-            "fee": 0,
-            "message": ""
-            }
-            ],
-            "totalFees": 3600,
-            "message": "",
-            "title": "Delivery Charge",
-            "amount": "3600",
-            "icon": ""
-            },
-            "availability": {
-            "opened": true,
-            "nextOpenMessage": "",
-            "nextCloseMessage": ""
-            },
-            "longDistanceEnabled": 1,
-            "rainMode": "HEAVY",
-            "thirdPartyAddress": false,
-            "thirdPartyVendor": "",
-            "adTrackingID": "",
-            "badges": {
-            "imageBased": [],
-            "textBased": [],
-            "textExtendedBadges": []
-            },
-            "lastMileTravelString": "1.5 kms",
-            "hasSurge": false,
-            "aggregatedDiscountInfoV3": {
-            "header": "60% OFF",
-            "subHeader": "UPTO ₹120",
-            "discountTag": "",
-            "headerTypeV2": 0
-            },
-            "sla": {
-            "restaurantId": "78036",
-            "deliveryTime": 46,
-            "minDeliveryTime": 46,
-            "maxDeliveryTime": 46,
-            "lastMileTravel": 1.5,
-            "lastMileDistance": 0,
-            "serviceability": "SERVICEABLE",
-            "rainMode": "HEAVY",
-            "longDistance": "IT_IS_LONG_DISTANCE",
-            "preferentialService": false,
-            "iconType": "EMPTY"
-            },
-            "promoted": false,
-            "avgRating": "4.2",
-            "totalRatings": 10000,
-            "new": false
-            },
-            "subtype": "basic"
-            },
-            {
-            "type": "restaurant",
-            "data": {
-            "type": "F",
             "id": "163881",
             "name": "The Netrik's Joint",
             "uuid": "74746a4b-d08d-402c-80a2-4d69150a9144",
@@ -3177,5 +3073,2975 @@
             "new": false
             },
             "subtype": "basic"
-            }
+            },
+            {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "546622",
+                "name": "Ganga - Paradise By Tunga",
+                "uuid": "ff1eb28b-7c45-4156-b0bc-57e82965ee84",
+                "city": "5",
+                "area": "M.I.D.C",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "xrrngexulv9uzxg7jcnv",
+                "cuisines": [
+                "South Indian",
+                "Indian"
+                ],
+                "tags": [],
+                "costForTwo": 35000,
+                "costForTwoString": "₹350 FOR TWO",
+                "deliveryTime": 36,
+                "minDeliveryTime": 36,
+                "maxDeliveryTime": 36,
+                "slaString": "36 MINS",
+                "lastMileTravel": 5.699999809265137,
+                "slugs": {
+                "restaurant": "ganga-paradise-by-tunga-mahakali-andheri-east",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Paradise By Tunga, P16, MIDC, Central Road, Mahakali, Mumbai",
+                "locality": "M.I.D.C",
+                "parentId": 86059,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "ribbon": [
+                {
+                "type": "PROMOTED"
+                }
+                ],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 5100,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 5100,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "5100",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7261942~p=1~eid=00000189-579a-1f05-0a95-33b200f60100~srvts=1689391865605",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "5.6 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100",
+                "discountTag": "",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "546623",
+                "deliveryTime": 36,
+                "minDeliveryTime": 36,
+                "maxDeliveryTime": 36,
+                "lastMileTravel": 5.699999809265137,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "4.3",
+                "totalRatings": 10000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "6289171",
+                "name": "LunchBox - Meals and Thalis",
+                "uuid": "b9348a56-aae7-4c7d-944e-e8202ac74e43",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "xjazh08gky7r756iopgy",
+                "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Punjabi",
+                "Healthy Food",
+                "Desserts",
+                "Beverages"
+                ],
+                "tags": [],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 25,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 25,
+                "slaString": "25 MINS",
+                "lastMileTravel": 1.100000023841858,
+                "slugs": {
+                "restaurant": "lunchbox-nr-oberoi-tower-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                "locality": "Veera Desai Rd",
+                "parentId": 4925,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.1 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹499",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "622891",
+                "deliveryTime": 25,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 25,
+                "lastMileTravel": 1.100000023841858,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "4.0",
+                "totalRatings": 10000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "355118",
+                "name": "Sweet Truth - Cake and Desserts",
+                "uuid": "249ebe3b-ca5e-40fa-99c2-2140a7a6f7c9",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "100+ ratings",
+                "cloudinaryImageId": "3ec8bccd0fc2c6303d7602dd642248d5",
+                "cuisines": [
+                "Snacks",
+                "Bakery",
+                "Desserts",
+                "Beverages"
+                ],
+                "tags": [],
+                "costForTwo": 45000,
+                "costForTwoString": "₹450 FOR TWO",
+                "deliveryTime": 24,
+                "minDeliveryTime": 24,
+                "maxDeliveryTime": 24,
+                "slaString": "24 MINS",
+                "lastMileTravel": 1.100000023841858,
+                "slugs": {
+                "restaurant": "sweet-truth-opposite-meera-towers-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                "locality": "Veera Desai Rd",
+                "parentId": 4444,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.1 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100",
+                "discountTag": "",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "315518",
+                "deliveryTime": 24,
+                "minDeliveryTime": 24,
+                "maxDeliveryTime": 24,
+                "lastMileTravel": 1.100000023841858,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "4.2",
+                "totalRatings": 100,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "323003",
+                "name": "Chaayos Chai+Snacks=Relax",
+                "uuid": "744f279f-5ebe-45c2-a2b8-eccc80553353",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "2beebd3688e63e027ee8a11c1c8a72c8",
+                "cuisines": [
+                "Bakery",
+                "Beverages",
+                "Chaat",
+                "Desserts",
+                "Fast Food",
+                "Home Food",
+                "Italian",
+                "Maharashtrian",
+                "Snacks",
+                "Street Food",
+                "Sweets"
+                ],
+                "tags": [],
+                "costForTwo": 25000,
+                "costForTwoString": "₹250 FOR TWO",
+                "deliveryTime": 21,
+                "minDeliveryTime": 21,
+                "maxDeliveryTime": 21,
+                "slaString": "21 MINS",
+                "lastMileTravel": 2.0999999046325684,
+                "slugs": {
+                "restaurant": "chaayos-andheri-west-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Ground floor, Shop number 4 &5, Building number 25, Oshiwara Linkway CHS Ltd, Opp Meera Tower, MAHADA Complex, Andheri West",
+                "locality": "Oshiwara",
+                "parentId": 281782,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "ribbon": [
+                {
+                "type": "PROMOTED"
+                }
+                ],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7253392~p=19~eid=00000189-579a-1f05-0a95-33b800f6131e~srvts=1689391865605",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "2 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80",
+                "discountTag": "",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "323002",
+                "deliveryTime": 21,
+                "minDeliveryTime": 21,
+                "maxDeliveryTime": 21,
+                "lastMileTravel": 2.0999999046325684,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "4.4",
+                "totalRatings": 10000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "73455",
+                "name": "Burger King",
+                "uuid": "95cb538f-6b5d-4afd-b174-5f30cafc5f30",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                "cuisines": [
+                "Burgers",
+                "American"
+                ],
+                "tags": [],
+                "costForTwo": 35000,
+                "costForTwoString": "₹350 FOR TWO",
+                "deliveryTime": 41,
+                "minDeliveryTime": 41,
+                "maxDeliveryTime": 41,
+                "slaString": "41 MINS",
+                "lastMileTravel": 1.7000000476837158,
+                "slugs": {
+                "restaurant": "burger-king-infiniti-mall-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Infinity Mall, Andheri Lokhandwala, Andheri West",
+                "locality": "Infinity Mall",
+                "parentId": 166,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.7 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120",
+                "discountTag": "",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "73555",
+                "deliveryTime": 41,
+                "minDeliveryTime": 41,
+                "maxDeliveryTime": 41,
+                "lastMileTravel": 1.7000000476837158,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.9",
+                "totalRatings": 10000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "17496",
+                "name": "Faasos - Wraps & Rolls",
+                "uuid": "7647f01f-6c07-4a3b-90fc-dfa8fe305e9d",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
+                "cuisines": [
+                "Kebabs",
+                "Fast Food",
+                "Snacks",
+                "North Indian",
+                "American",
+                "Healthy Food",
+                "Desserts",
+                "Beverages"
+                ],
+                "tags": [],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 26,
+                "minDeliveryTime": 26,
+                "maxDeliveryTime": 26,
+                "slaString": "26 MINS",
+                "lastMileTravel": 1.100000023841858,
+                "slugs": {
+                "restaurant": "faasos-opposite-meera-towers-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                "locality": "Veera Desai Rd",
+                "parentId": 21809,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.1 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹249",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "17496",
+                "deliveryTime": 26,
+                "minDeliveryTime": 26,
+                "maxDeliveryTime": 26,
+                "lastMileTravel": 1.100000023841858,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.9",
+                "totalRatings": 10000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "417271",
+                "name": "Samosa Singh",
+                "uuid": "b30ab84a-f427-4a92-86a1-b02420ca0fa2",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "1000+ ratings",
+                "cloudinaryImageId": "77baefd8a5e319c828b4d7dff7260644",
+                "cuisines": [
+                "North Indian",
+                "Indian",
+                "Snacks",
+                "Street Food"
+                ],
+                "tags": [],
+                "costForTwo": 15000,
+                "costForTwoString": "₹150 FOR TWO",
+                "deliveryTime": 26,
+                "minDeliveryTime": 26,
+                "maxDeliveryTime": 26,
+                "slaString": "26 MINS",
+                "lastMileTravel": 1,
+                "slugs": {
+                "restaurant": "samosa-singh-andheri-west-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "SMGK ASSOCIATES RESIDENCY BASEMENT A WING HIIL PARK PARK COMPLEX CAPT SURESH SAMANT MARG NR AGARWAL INDUSTRIAL ESTATE JOGESHWARI WEST MUMBAI, Greater Mumbai Ward-K/W, Greater Mumbai, Maharashtra-40010",
+                "locality": "Greater Mumbai Ward-K/W",
+                "parentId": 5639,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100",
+                "discountTag": "",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "417271",
+                "deliveryTime": 26,
+                "minDeliveryTime": 26,
+                "maxDeliveryTime": 26,
+                "lastMileTravel": 1,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.9",
+                "totalRatings": 1000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "566265",
+                "name": "Faasos' Signature Wraps & Rolls",
+                "uuid": "9f5e91c9-88ef-4996-8d6d-5a67f0395bce",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "20+ ratings",
+                "cloudinaryImageId": "c583ca6ce40b426797a78ae2ac91f2ec",
+                "cuisines": [
+                "Fast Food",
+                "Snacks",
+                "North Indian",
+                "Desserts",
+                "Beverages"
+                ],
+                "tags": [],
+                "costForTwo": 35000,
+                "costForTwoString": "₹350 FOR TWO",
+                "deliveryTime": 29,
+                "minDeliveryTime": 29,
+                "maxDeliveryTime": 29,
+                "slaString": "29 MINS",
+                "lastMileTravel": 1.100000023841858,
+                "slugs": {
+                "restaurant": "signature-wraps-rolls-by-faasos-veera-desai-road-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                "locality": "Veera Desai Rd",
+                "parentId": 340366,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.1 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "15% OFF",
+                "subHeader": "ABOVE ₹800",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "566265",
+                "deliveryTime": 29,
+                "minDeliveryTime": 29,
+                "maxDeliveryTime": 29,
+                "lastMileTravel": 1.100000023841858,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.6",
+                "totalRatings": 20,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "7022",
+                "name": "Nothing But Chicken",
+                "uuid": "374926e6-9a8b-466e-8037-68aa6b308aa2",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "5000+ ratings",
+                "cloudinaryImageId": "rhpzokdp97wlcxsc2ilq",
+                "cuisines": [
+                "Salads",
+                "Fast Food",
+                "Kebabs"
+                ],
+                "tags": [],
+                "costForTwo": 40000,
+                "costForTwoString": "₹400 FOR TWO",
+                "deliveryTime": 19,
+                "minDeliveryTime": 19,
+                "maxDeliveryTime": 19,
+                "slaString": "19 MINS",
+                "lastMileTravel": 2.799999952316284,
+                "slugs": {
+                "restaurant": "nothing-but-chicken-lokhandwala-market-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop No 11 , Nebula Co-Op Hsg Soc, 4th Cross Lane , Lokhandwala Market, Andheri (W), Greater Mumbai Ward-K/W, Greater Mumbai, Maharashtra-400053",
+                "locality": "Lokhandwala Market",
+                "parentId": 668,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "ribbon": [
+                {
+                "type": "PROMOTED"
+                }
+                ],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7422277~p=10~eid=00000189-579a-1f05-0a95-33b500f60a67~srvts=1689391865605",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "2.7 kms",
+                "hasSurge": false,
+                "sla": {
+                "restaurantId": "70214",
+                "deliveryTime": 19,
+                "minDeliveryTime": 19,
+                "maxDeliveryTime": 19,
+                "lastMileTravel": 2.799999952316284,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "4.3",
+                "totalRatings": 5000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "263587",
+                "name": "Shravan Specials by Lunchbox",
+                "uuid": "c46dacd8-8abd-4a2f-b82b-65ad5c49a612",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "100+ ratings",
+                "cloudinaryImageId": "n2k4gqjtul4lwogricta",
+                "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Desserts",
+                "Beverages"
+                ],
+                "tags": [],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 27,
+                "minDeliveryTime": 27,
+                "maxDeliveryTime": 27,
+                "slaString": "27 MINS",
+                "lastMileTravel": 1.100000023841858,
+                "slugs": {
+                "restaurant": "navratri-meals-by-faasos-nr-oberoi-tower-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                "locality": "Veera Desai Rd",
+                "parentId": 21938,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.1 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100",
+                "discountTag": "",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "263587",
+                "deliveryTime": 27,
+                "minDeliveryTime": 27,
+                "maxDeliveryTime": 27,
+                "lastMileTravel": 1.100000023841858,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "4.0",
+                "totalRatings": 100,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "147357",
+                "name": "Paratha express",
+                "uuid": "010a9116-ea18-4793-b527-79f3939ab3e9",
+                "city": "5",
+                "area": "Jogeshwari West",
+                "totalRatingsString": "100+ ratings",
+                "cloudinaryImageId": "ycgmhbwta9g0fdemjkoi",
+                "cuisines": [
+                "North Indian",
+                "Punjabi",
+                "Thalis",
+                "Mughlai"
+                ],
+                "tags": [],
+                "costForTwo": 15000,
+                "costForTwoString": "₹150 FOR TWO",
+                "deliveryTime": 41,
+                "minDeliveryTime": 41,
+                "maxDeliveryTime": 41,
+                "slaString": "41 MINS",
+                "lastMileTravel": 1.399999976158142,
+                "slugs": {
+                "restaurant": "paratha-express-na-dummy-inbound-area",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "Shop Number 1033, Adarsh Nagar, Near Lotus Petrol Pump, Oshiwara, Mumbai - 400053",
+                "locality": "ADARSH NAGAR",
+                "parentId": 155369,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.3 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹150",
+                "discountTag": "SAVE BIG",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "147357",
+                "deliveryTime": 41,
+                "minDeliveryTime": 41,
+                "maxDeliveryTime": 41,
+                "lastMileTravel": 1.399999976158142,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.5",
+                "totalRatings": 100,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "638697",
+                "name": "Chai Coffee Paratha",
+                "uuid": "f23d85ac-25c3-4e61-b592-400d13b3d834",
+                "city": "5",
+                "area": "Oshiwara",
+                "totalRatingsString": "50+ ratings",
+                "cloudinaryImageId": "feme7jg1ztsau6zjeduh",
+                "cuisines": [
+                "Beverages",
+                "North Indian"
+                ],
+                "tags": [],
+                "costForTwo": 25000,
+                "costForTwoString": "₹250 FOR TWO",
+                "deliveryTime": 31,
+                "minDeliveryTime": 31,
+                "maxDeliveryTime": 31,
+                "slaString": "31 MINS",
+                "lastMileTravel": 1.2000000476837158,
+                "slugs": {
+                "restaurant": "chai-coffee-paratha-jog-gor-west-jog-gor-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "gulmohar valley patliputra nagar Oshiwara.",
+                "locality": "patliputra",
+                "parentId": 385475,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.2 kms",
+                "hasSurge": false,
+                "sla": {
+                "restaurantId": "638697",
+                "deliveryTime": 31,
+                "minDeliveryTime": 31,
+                "maxDeliveryTime": 31,
+                "lastMileTravel": 1.2000000476837158,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "4.1",
+                "totalRatings": 50,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "648177",
+                "name": "Bemaisal Dairy ",
+                "uuid": "f714dede-ccd9-494d-83d6-bc4e58094eee",
+                "city": "5",
+                "area": "Andheri West",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "81eb2b70ecafe57c6a6bd58f96f55fc2",
+                "cuisines": [
+                "Desserts",
+                "Beverages"
+                ],
+                "tags": [],
+                "costForTwo": 30000,
+                "costForTwoString": "₹300 FOR TWO",
+                "deliveryTime": 30,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 30,
+                "slaString": "30 MINS",
+                "lastMileTravel": 0.8999999761581421,
+                "slugs": {
+                "restaurant": "bemaisal-dairy-andheri-west-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "SHOP NO 2, NEAR LILLY TOWER MALLIKA HOSPITAL S V ROAD , Oshiwara, Greater Mumbai Ward-K/W, Greater Mumbai, Maharashtra - 400102",
+                "locality": "S V Road",
+                "parentId": 390541,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "0.8 kms",
+                "hasSurge": false,
+                "sla": {
+                "restaurantId": "648177",
+                "deliveryTime": 30,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 0.8999999761581421,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                "type": "restaurant",
+                "data": {
+                "type": "F",
+                "id": "304456",
+                "name": "The Baker's Dozen",
+                "uuid": "72dc16e3-f4a5-44a3-a1c3-bbeac584ce8f",
+                "city": "5",
+                "area": "Lokhandwala",
+                "totalRatingsString": "1000+ ratings",
+                "cloudinaryImageId": "4564707d4f5a8a7feff0188b183a7916",
+                "cuisines": [
+                "Bakery",
+                "Snacks",
+                "Desserts"
+                ],
+                "tags": [],
+                "costForTwo": 30000,
+                "costForTwoString": "₹300 FOR TWO",
+                "deliveryTime": 16,
+                "minDeliveryTime": 16,
+                "maxDeliveryTime": 16,
+                "slaString": "16 MINS",
+                "lastMileTravel": 1.600000023841858,
+                "slugs": {
+                "restaurant": "the-baker's-dozen-andheri-west-andheri-west",
+                "city": "mumbai"
+                },
+                "cityState": "5",
+                "address": "A-381, Adarsh Nagar, New Link Road , Jogeshwari ( West) - Mumbai 400102",
+                "locality": "Lokhandwala",
+                "parentId": 946,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [],
+                "chain": [],
+                "feeDetails": {
+                "fees": [
+                {
+                "name": "distance",
+                "fee": 3300,
+                "message": ""
+                },
+                {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+                },
+                {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+                }
+                ],
+                "totalFees": 3300,
+                "message": "",
+                "title": "Delivery Charge",
+                "amount": "3300",
+                "icon": ""
+                },
+                "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+                },
+                "lastMileTravelString": "1.6 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                "header": "₹75 OFF",
+                "subHeader": "ABOVE ₹299",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 0
+                },
+                "sla": {
+                "restaurantId": "304456",
+                "deliveryTime": 16,
+                "minDeliveryTime": 16,
+                "maxDeliveryTime": 16,
+                "lastMileTravel": 1.600000023841858,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "4.5",
+                "totalRatings": 1000,
+                "new": false
+                },
+                "subtype": "basic"
+                },
+                {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "546624",
+                    "name": "Ganga - Paradise By Tunga",
+                    "uuid": "ff1eb28b-7c45-4156-b0bc-57e82965ee84",
+                    "city": "5",
+                    "area": "M.I.D.C",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "xrrngexulv9uzxg7jcnv",
+                    "cuisines": [
+                    "South Indian",
+                    "Indian"
+                    ],
+                    "tags": [],
+                    "costForTwo": 35000,
+                    "costForTwoString": "₹350 FOR TWO",
+                    "deliveryTime": 38,
+                    "minDeliveryTime": 38,
+                    "maxDeliveryTime": 38,
+                    "slaString": "38 MINS",
+                    "lastMileTravel": 5.699999809265137,
+                    "slugs": {
+                    "restaurant": "ganga-paradise-by-tunga-mahakali-andheri-east",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Paradise By Tunga, P16, MIDC, Central Road, Mahakali, Mumbai",
+                    "locality": "M.I.D.C",
+                    "parentId": 86059,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "ribbon": [
+                    {
+                    "type": "PROMOTED"
+                    }
+                    ],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 5100,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 5100,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "5100",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=7261942~p=1~eid=00000189-579f-e2c1-0a9c-66d300180156~srvts=1689392243393",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "5.6 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100",
+                    "discountTag": "",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "546625",
+                    "deliveryTime": 38,
+                    "minDeliveryTime": 38,
+                    "maxDeliveryTime": 38,
+                    "lastMileTravel": 5.699999809265137,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "4.3",
+                    "totalRatings": 10000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "429907",
+                    "name": "Star juice and snacks",
+                    "uuid": "bda47155-0e2e-4441-98d9-ef1d2e334220",
+                    "city": "5",
+                    "area": "Jog Gor West",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "f2nnxfzkipaslw0oywpl",
+                    "cuisines": [
+                    "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "slaString": "20 MINS",
+                    "lastMileTravel": 0.10000000149011612,
+                    "slugs": {
+                    "restaurant": "star-juice-and-snacks-jog-gor-west-jog-gor-west-2",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Shop No 4 , John Bungalow, Near City Hospital, Swami Vivekananda Rd, Khoja Society, Vaishali Nagar, Jogeshwari West, Mumbai, Maharashtra 400102, India",
+                    "locality": "Vaishali Nagar",
+                    "parentId": 234278,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.1 kms",
+                    "hasSurge": false,
+                    "sla": {
+                    "restaurantId": "429907",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "lastMileTravel": 0.10000000149011612,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 100,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "417224",
+                    "name": "Basniwala dairy farm",
+                    "uuid": "df7bd4f5-d4fa-4233-85cf-c4888641d218",
+                    "city": "5",
+                    "area": "Ram Mandir Signal",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "nb6qsvzivwycp7jqh2up",
+                    "cuisines": [
+                    "Desserts"
+                    ],
+                    "tags": [],
+                    "costForTwo": 10000,
+                    "costForTwoString": "₹100 FOR TWO",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "slaString": "20 MINS",
+                    "lastMileTravel": 0.800000011920929,
+                    "slugs": {
+                    "restaurant": "basniwala-dairy-farm-jog-gor-west-jog-gor-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Shop No.4, Patel Stable, Ram Mandir signal, Swami Vivekananda Rd, Mahatma Jyotiba Phule Nagar, Goregaon West, Mumbai, Maharashtra 400104, India",
+                    "locality": "Jog Gor West",
+                    "parentId": 232121,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "sla": {
+                    "restaurantId": "417224",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "lastMileTravel": 0.800000011920929,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.5",
+                    "totalRatings": 100,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "323001",
+                    "name": "Chaayos Chai+Snacks=Relax",
+                    "uuid": "744f279f-5ebe-45c2-a2b8-eccc80553353",
+                    "city": "5",
+                    "area": "Andheri West",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "2beebd3688e63e027ee8a11c1c8a72c8",
+                    "cuisines": [
+                    "Bakery",
+                    "Beverages",
+                    "Chaat",
+                    "Desserts",
+                    "Fast Food",
+                    "Home Food",
+                    "Italian",
+                    "Maharashtrian",
+                    "Snacks",
+                    "Street Food",
+                    "Sweets"
+                    ],
+                    "tags": [],
+                    "costForTwo": 25000,
+                    "costForTwoString": "₹250 FOR TWO",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "slaString": "23 MINS",
+                    "lastMileTravel": 2.0999999046325684,
+                    "slugs": {
+                    "restaurant": "chaayos-andheri-west-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Ground floor, Shop number 4 &5, Building number 25, Oshiwara Linkway CHS Ltd, Opp Meera Tower, MAHADA Complex, Andheri West",
+                    "locality": "Oshiwara",
+                    "parentId": 281782,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "ribbon": [
+                    {
+                    "type": "PROMOTED"
+                    }
+                    ],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=7253392~p=19~eid=00000189-579f-e2c1-0a9c-66d90018136b~srvts=1689392243393",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "2 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80",
+                    "discountTag": "",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "323004",
+                    "deliveryTime": 23,
+                    "minDeliveryTime": 23,
+                    "maxDeliveryTime": 23,
+                    "lastMileTravel": 2.0999999046325684,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "4.4",
+                    "totalRatings": 10000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "110092",
+                    "name": "Rajasthan Dairy Farm",
+                    "uuid": "c65fbf32-6970-4fc7-9315-820a9b30b023",
+                    "city": "5",
+                    "area": "Jogeshwari West",
+                    "totalRatingsString": "1000+ ratings",
+                    "cloudinaryImageId": "n0todpoln1arayymtcdo",
+                    "cuisines": [
+                    "Sweets"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 17,
+                    "minDeliveryTime": 17,
+                    "maxDeliveryTime": 17,
+                    "slaString": "17 MINS",
+                    "lastMileTravel": 0.10000000149011612,
+                    "slugs": {
+                    "restaurant": "new-rajasthan-dairy-farm-jogeshwari-jog-gor-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Hasan Dalwai Chowk Ajit Glass, S.V Road, Jogeshwari, Mumbai",
+                    "locality": "Jog Gor West",
+                    "parentId": 147684,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.1 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50",
+                    "discountTag": "",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "110092",
+                    "deliveryTime": 17,
+                    "minDeliveryTime": 17,
+                    "maxDeliveryTime": 17,
+                    "lastMileTravel": 0.10000000149011612,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.1",
+                    "totalRatings": 1000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "692498",
+                    "name": "Kurla Juicy Hut",
+                    "uuid": "f694912a-ee23-49b5-b914-04f701bd9a53",
+                    "city": "5",
+                    "area": "Jog Gor West",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "84797f37260054475ca5132d62e4b191",
+                    "cuisines": [
+                    "Juices",
+                    "Beverages",
+                    "Fast Food",
+                    "Pizzas",
+                    "Snacks",
+                    "Desserts"
+                    ],
+                    "tags": [],
+                    "costForTwo": 14900,
+                    "costForTwoString": "₹149 FOR TWO",
+                    "deliveryTime": 29,
+                    "minDeliveryTime": 29,
+                    "maxDeliveryTime": 29,
+                    "slaString": "29 MINS",
+                    "lastMileTravel": 0.10000000149011612,
+                    "slugs": {
+                    "restaurant": "kurla-juicy-hut-jog-gor-west-jog-gor-west-2",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "PLOT NO.2,NEW PATHAN CHAWL NEAR AJIT GLASS,VASURA VILLAGE,JOGESHWARI, Oshiwara, Greater Mumbai Ward-K/W, Greater Mumbai, Maharashtra - 400060",
+                    "locality": "NEW PATHAN CHAWL",
+                    "parentId": 121989,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.1 kms",
+                    "hasSurge": false,
+                    "sla": {
+                    "restaurantId": "692498",
+                    "deliveryTime": 29,
+                    "minDeliveryTime": 29,
+                    "maxDeliveryTime": 29,
+                    "lastMileTravel": 0.10000000149011612,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "591461",
+                    "name": "EatFit",
+                    "uuid": "c95451c8-9882-463f-b782-cc79dc0029a0",
+                    "city": "5",
+                    "area": "Jogeshwari West",
+                    "totalRatingsString": "1000+ ratings",
+                    "cloudinaryImageId": "ee4f041cd8611dccc19f4267783ab5ea",
+                    "cuisines": [
+                    "Healthy Food",
+                    "Pizzas",
+                    "North Indian",
+                    "Thalis",
+                    "Biryani",
+                    "Chinese"
+                    ],
+                    "tags": [],
+                    "costForTwo": 27000,
+                    "costForTwoString": "₹270 FOR TWO",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "slaString": "25 MINS",
+                    "lastMileTravel": 0.800000011920929,
+                    "slugs": {
+                    "restaurant": "eatfit-nr-agarwal-industrial-estate-jog-gor-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Basement, Wing A, SMGK Associate Residency, Hill Park Park Complex, Capt. Suresh Samant Marg, Nr. Agarwal Industrial Estate, Jogeshwari West, Mumbai 400102",
+                    "locality": "Nr. Agarwal Industrial Estate",
+                    "parentId": 76139,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹449",
+                    "discountTag": "FLAT DEAL",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "591461",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "lastMileTravel": 0.800000011920929,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.1",
+                    "totalRatings": 1000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "284260",
+                    "name": "Home Plate by EatFit",
+                    "uuid": "7b9bfdaa-fb02-43f3-83bc-d80144547121",
+                    "city": "5",
+                    "area": "Jogeshwari West",
+                    "totalRatingsString": "1000+ ratings",
+                    "cloudinaryImageId": "d33fbde5092a52ef86ab5b8954486a32",
+                    "cuisines": [
+                    "North Indian",
+                    "Home Food",
+                    "Healthy Food",
+                    "Indian",
+                    "Punjabi",
+                    "South Indian",
+                    "Rajasthani",
+                    "Maharashtrian",
+                    "Snacks",
+                    "Desserts",
+                    "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 16000,
+                    "costForTwoString": "₹160 FOR TWO",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "slaString": "25 MINS",
+                    "lastMileTravel": 0.800000011920929,
+                    "slugs": {
+                    "restaurant": "one-plate-by-canteen-central-andheri-west-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Basement, Wing A, SMGK Associate Residency, Hill Park Park Complex, Capt. Suresh Samant Marg, Nr. Agarwal Industrial Estate, Jogeshwari West, Mumbai 400102",
+                    "locality": "Nr. Agarwal Industrial Estate",
+                    "parentId": 301197,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "284260",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "lastMileTravel": 0.800000011920929,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.0",
+                    "totalRatings": 1000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "70224",
+                    "name": "Nothing But Chicken",
+                    "uuid": "374926e6-9a8b-466e-8037-68aa6b308aa2",
+                    "city": "5",
+                    "area": "Andheri West",
+                    "totalRatingsString": "5000+ ratings",
+                    "cloudinaryImageId": "rhpzokdp97wlcxsc2ilq",
+                    "cuisines": [
+                    "Salads",
+                    "Fast Food",
+                    "Kebabs"
+                    ],
+                    "tags": [],
+                    "costForTwo": 40000,
+                    "costForTwoString": "₹400 FOR TWO",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "slaString": "20 MINS",
+                    "lastMileTravel": 2.799999952316284,
+                    "slugs": {
+                    "restaurant": "nothing-but-chicken-lokhandwala-market-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Shop No 11 , Nebula Co-Op Hsg Soc, 4th Cross Lane , Lokhandwala Market, Andheri (W), Greater Mumbai Ward-K/W, Greater Mumbai, Maharashtra-400053",
+                    "locality": "Lokhandwala Market",
+                    "parentId": 668,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "ribbon": [
+                    {
+                    "type": "PROMOTED"
+                    }
+                    ],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=7422277~p=10~eid=00000189-579f-e2c1-0a9c-66d600180a77~srvts=1689392243393",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "2.7 kms",
+                    "hasSurge": false,
+                    "sla": {
+                    "restaurantId": "70224",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "lastMileTravel": 2.799999952316284,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "4.3",
+                    "totalRatings": 5000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "82276",
+                    "name": "Canteen Central-Chai, Maggi aur Snacks",
+                    "uuid": "7c715909-46b1-4ed7-b79d-484ff59991c4",
+                    "city": "5",
+                    "area": "Jogeshwari West",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "9ca06743f33d3a940100194672eb23e9",
+                    "cuisines": [
+                    "Street Food",
+                    "Fast Food",
+                    "North Indian",
+                    "Italian",
+                    "Snacks",
+                    "Burgers",
+                    "Beverages",
+                    "Desserts"
+                    ],
+                    "tags": [],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "slaString": "20 MINS",
+                    "lastMileTravel": 0.800000011920929,
+                    "slugs": {
+                    "restaurant": "zippy-near-andheri-rto-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Basement, Wing A, SMGK Associate Residency, Hill Park Park Complex, Capt. Suresh Samant Marg, Nr. Agarwal Industrial Estate, Jogeshwari West, Mumbai 400102",
+                    "locality": "Nr. Agarwal Industrial Estate",
+                    "parentId": 346157,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "82276",
+                    "deliveryTime": 20,
+                    "minDeliveryTime": 20,
+                    "maxDeliveryTime": 20,
+                    "lastMileTravel": 0.800000011920929,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.0",
+                    "totalRatings": 10000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "257742",
+                    "name": "Great Indian Khichdi by EatFit",
+                    "uuid": "93b34300-cb32-45d6-acb6-fdfbc278c74b",
+                    "city": "5",
+                    "area": "Jogeshwari West",
+                    "totalRatingsString": "5000+ ratings",
+                    "cloudinaryImageId": "89741ecb1291788f128600a5da5f18b4",
+                    "cuisines": [
+                    "Home Food",
+                    "Indian",
+                    "North Indian",
+                    "Healthy Food",
+                    "Snacks",
+                    "Desserts",
+                    "Rajasthani",
+                    "South Indian",
+                    "Maharashtrian",
+                    "Sweets"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 21,
+                    "minDeliveryTime": 21,
+                    "maxDeliveryTime": 21,
+                    "slaString": "21 MINS",
+                    "lastMileTravel": 0.800000011920929,
+                    "slugs": {
+                    "restaurant": "great-indian-khichdi-andheri-west-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Basement, Wing A, SMGK Associate Residency, Hill Park Park Complex, Capt. Suresh Samant Marg, Nr. Agarwal Industrial Estate, Jogeshwari West, Mumbai 400102",
+                    "locality": "Nr. Agarwal Industrial Estate",
+                    "parentId": 319582,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹349",
+                    "discountTag": "FLAT DEAL",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "257742",
+                    "deliveryTime": 21,
+                    "minDeliveryTime": 21,
+                    "maxDeliveryTime": 21,
+                    "lastMileTravel": 0.800000011920929,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 5000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "336084",
+                    "name": "Habit Beverages",
+                    "uuid": "5486446d-2bbe-4cf0-a837-63a43f08c3fb",
+                    "city": "5",
+                    "area": "Goregaon West",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "wimeuz3hj70wuz9v8fpg",
+                    "cuisines": [
+                    "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 25000,
+                    "costForTwoString": "₹250 FOR TWO",
+                    "deliveryTime": 29,
+                    "minDeliveryTime": 29,
+                    "maxDeliveryTime": 29,
+                    "slaString": "29 MINS",
+                    "lastMileTravel": 0.8999999761581421,
+                    "slugs": {
+                    "restaurant": "habit-beverages-jog-gor-west-jog-gor-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "C 39' RAJNIGANDHA SOC, SOMANI GRAM, RAMMANDIR ROAD, GOREGAON WEST MUMBAI",
+                    "locality": "SOMANI GRAM",
+                    "parentId": 92566,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "sla": {
+                    "restaurantId": "336084",
+                    "deliveryTime": 29,
+                    "minDeliveryTime": 29,
+                    "maxDeliveryTime": 29,
+                    "lastMileTravel": 0.8999999761581421,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "3.6",
+                    "totalRatings": 100,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "628191",
+                    "name": "LunchBox - Meals and Thalis",
+                    "uuid": "b9348a56-aae7-4c7d-944e-e8202ac74e43",
+                    "city": "5",
+                    "area": "Andheri West",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "xjazh08gky7r756iopgy",
+                    "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Punjabi",
+                    "Healthy Food",
+                    "Desserts",
+                    "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "slaString": "25 MINS",
+                    "lastMileTravel": 1.100000023841858,
+                    "slugs": {
+                    "restaurant": "lunchbox-nr-oberoi-tower-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                    "locality": "Veera Desai Rd",
+                    "parentId": 4925,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.1 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "628191",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "lastMileTravel": 1.100000023841858,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.0",
+                    "totalRatings": 10000,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    },
+                    {
+                    "type": "restaurant",
+                    "data": {
+                    "type": "F",
+                    "id": "355181",
+                    "name": "Sweet Truth - Cake and Desserts",
+                    "uuid": "249ebe3b-ca5e-40fa-99c2-2140a7a6f7c9",
+                    "city": "5",
+                    "area": "Andheri West",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "3ec8bccd0fc2c6303d7602dd642248d5",
+                    "cuisines": [
+                    "Snacks",
+                    "Bakery",
+                    "Desserts",
+                    "Beverages"
+                    ],
+                    "tags": [],
+                    "costForTwo": 45000,
+                    "costForTwoString": "₹450 FOR TWO",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "slaString": "25 MINS",
+                    "lastMileTravel": 1.100000023841858,
+                    "slugs": {
+                    "restaurant": "sweet-truth-opposite-meera-towers-andheri-west",
+                    "city": "mumbai"
+                    },
+                    "cityState": "5",
+                    "address": "Shop no 06, Prathamesh tower, Veera Desai road , behind country club,Andheri west Mumbai",
+                    "locality": "Veera Desai Rd",
+                    "parentId": 4444,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [],
+                    "chain": [],
+                    "feeDetails": {
+                    "fees": [
+                    {
+                    "name": "distance",
+                    "fee": 3300,
+                    "message": ""
+                    },
+                    {
+                    "name": "time",
+                    "fee": 0,
+                    "message": ""
+                    },
+                    {
+                    "name": "special",
+                    "fee": 0,
+                    "message": ""
+                    }
+                    ],
+                    "totalFees": 3300,
+                    "message": "",
+                    "title": "Delivery Charge",
+                    "amount": "3300",
+                    "icon": ""
+                    },
+                    "availability": {
+                    "opened": true,
+                    "nextOpenMessage": "",
+                    "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                    "imageBased": [],
+                    "textBased": [],
+                    "textExtendedBadges": []
+                    },
+                    "lastMileTravelString": "1.1 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100",
+                    "discountTag": "",
+                    "headerTypeV2": 0
+                    },
+                    "sla": {
+                    "restaurantId": "355218",
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 25,
+                    "lastMileTravel": 1.100000023841858,
+                    "lastMileDistance": 0,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "NONE",
+                    "longDistance": "NOT_LONG_DISTANCE",
+                    "preferentialService": false,
+                    "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.2",
+                    "totalRatings": 100,
+                    "new": false
+                    },
+                    "subtype": "basic"
+                    }
+                    
 ]

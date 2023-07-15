@@ -7,6 +7,8 @@ import About from './component/About'
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom';
 import ErrorElement from './component/errorElement';
 import { SearchContextProvider } from './SearchContext';
+import Restaurants from './component/Restaurants';
+import Parent from './component/Classcom1';
 
 // AppLayout component
 const AppLayout = () => {
@@ -34,6 +36,14 @@ const appRouter = createBrowserRouter([
         path: '/About',
         element: <About />
       },
+      {
+        path: "/classcomponent",
+        element: <Parent />
+      },
+      {
+        path: '/restaurant/:id',
+        element: <Restaurants />
+      }
     ]
   },
 

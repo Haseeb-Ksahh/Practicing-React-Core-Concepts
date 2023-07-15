@@ -1,4 +1,4 @@
-import { useContext, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import DATA from '../src/assets/data.json';
 import RestaurantCard from './component/RestaurantCard';
 import ShimmerUI from './component/shimmerUI';
@@ -13,9 +13,7 @@ const Body = () => {
     restaurant.data.name.toLowerCase().includes(searchText.toLowerCase())
   );
 
-  console.log(filteredData);
-
-  if(filteredData.length === 0){
+  if (filteredData.length === 0) {
     return <h1>No Resraurants found...</h1>
   }
 
